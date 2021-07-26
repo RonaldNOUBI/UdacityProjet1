@@ -3,10 +3,9 @@ theme: jekyll-theme-minimal
 <html>
 <head>
 <title>Blog-post test</title>
-
 </head>
-<body>
 
+<body>
 <h1>Ranking Popular Python Packages for Data Science</h1>
 
 <p>At <a href="https://www.thedataincubator.com/">The Data Incubator</a>, we pride ourselves
@@ -18,9 +17,6 @@ are looking to learn.</p>
 
 <p>The interactive interpreter <code>ipython</code> is fourth overall, while the <code>jupyter</code>
 project (of the popular notebook) is 19th overall (not shown).</p>
-
-<p>The <a href="output/python-ranks-with-na.csv">full ranking is here</a>, while
-the <a href="output/python-data-wide.csv">raw data is here</a>.</p>
 
 <h2>Github vs. Stack Overflow activity</h2>
 
@@ -48,23 +44,6 @@ together many of these packages, and this was not considered.</p>
 <p>Further, naturally, some packages that have been around longer will have higher
 metrics, and therefore higher ranking. This is not adjusted for in any way.</p>
 
-<p>The data presented a few difficulties:</p>
-
-<h1>Methods</h1>
-
-<p>All source code and data is on <a href="https://github.com/thedataincubator/data-science-blogs">our Github Page</a>.</p>
-
-<p>We first generated a list of Data Science packages
-from
-<a href="https://github.com/rasbt/pattern_classification/blob/master/resources/python_data_libraries.md">these</a> <a href="https://www.upwork.com/hiring/data/15-python-libraries-data-science/">three</a> <a href="http://www.datasciencecentral.com/profiles/blogs/9-python-analytics-libraries-1">sources</a>,
-and then collected metrics for all of them, to come up with the ranking.</p>
-
-<p>Github data is based on both stars and forks, while Stack Overflow data is based
-on tags and questions containing the package name. Downloads are from PyPI,
-using
-
-
-<p>All data was downloaded on January 26, 2017.</p>
 
 </body>
 </html>
