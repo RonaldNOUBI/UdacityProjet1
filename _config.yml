@@ -5,7 +5,6 @@ theme: jekyll-theme-minimal
 <title>Blog-post test</title>
 
 </head>
-
 <body>
 
 <h1>Ranking Popular Python Packages for Data Science</h1>
@@ -13,13 +12,7 @@ theme: jekyll-theme-minimal
 <p>At <a href="https://www.thedataincubator.com/">The Data Incubator</a>, we pride ourselves
 on having the latest data science curriculum.  Much of our curriculum is based
 on feedback from corporate and government partners about the technologies they
-are looking to learn.  However, we wanted to develop a more data-driven
-approach to what we should be teaching in
-our
-<a href="https://www.thedataincubator.com/training.html">data science corporate training</a> and
-our <a href="https://www.thedataincubator.com/fellowship.html">free fellowship</a> for
-masters and PhDs looking to enter data science careers in industry.  Here are
-the results.</p>
+are looking to learn.</p>
 
 <h2><code>numpy</code>, <code>tensorflow</code>, and <code>pandas</code> are top 3</h2>
 
@@ -48,11 +41,6 @@ presentation). <code>ggpy</code> (Python port for R's popular <code>ggplot2</cod
 overall, but the data is less reliable, as noted in the next section.</p>
 
 <h1>Limitations</h1>
-
-<p>As
-with <a href="https://twitter.com/benhamner/status/732392995610198016">any analysis</a>,
-decisions were made along the way. All source code and data is on <a href="https://github.com/thedataincubator/data-science-blogs">our Github Page</a>.</p>
-
 <p>Importantly,
 the <a href="https://www.continuum.io/anaconda-overview">Anaconda distribution</a> bundles
 together many of these packages, and this was not considered.</p>
