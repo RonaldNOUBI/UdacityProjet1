@@ -2,6 +2,11 @@ theme: jekyll-theme-minimal
 
 <html>
 
+<head>
+<title>Blog-post test</title>
+</head>
+
+
 <body>
 <h1>Ranking Popular Python Packages for Data Science</h1>
 
