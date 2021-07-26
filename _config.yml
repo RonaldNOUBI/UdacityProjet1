@@ -1,12 +1,8 @@
 theme: jekyll-theme-minimal
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-
+<html>
 <head>
-<title>python-packages.html</title>
+<title>Blog-post test</title>
 
 </head>
 
@@ -151,14 +147,6 @@ and then collected metrics for all of them, to come up with the ranking.</p>
 <p>Github data is based on both stars and forks, while Stack Overflow data is based
 on tags and questions containing the package name. Downloads are from PyPI,
 using
-a <a href="https://github.com/pavopax/vanity">fork of the <code>vanity</code> project</a>. Other
-projects to get download counts
-include <a href="https://github.com/jantman/pypi-download-stats">pypi-download-stats</a>
-(couldn't get it to work)
-and <a href="http://pypi-ranking.info/alltime">pypi-ranking.info</a> (gives smaller
-numbers than <code>vanity</code>).</p>
-
-<p>A few other notes:</p>
 
 <ul>
 <li><code>sqlite3</code> was removed from analysis, as it is a base Python module.</li>
