@@ -135,3 +135,11 @@ In this case we have used logistic regression as described above but other regre
 Yes,we can test other models outside logistic regression in order to choose the best model.
 Yes we can do that, but we have many model that we can train to take best model
 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+More structured modifications or updates are welcome, so I have a question that broadens my concerns about other models and the choice of the best model for this type of problem.
+
+## License
+[License](https://github.com/RonaldNOUBI/UdacityProjet1/commit/3419c6864278569830515d468295d0a1f7771c92)
